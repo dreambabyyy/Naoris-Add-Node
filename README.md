@@ -40,6 +40,10 @@ wallet token copy
 3. Run the bot:
 
 ```bash
+node nodeaddid.js
+```
+Opsional
+```
 node nodeactive.js
 ```
 
